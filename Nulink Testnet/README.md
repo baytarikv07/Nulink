@@ -8,9 +8,6 @@ width=45%
  - 4 GB RAM
  - 30 GB HDD
  - İşlemci olarak kaynak dosyalarda net bir açıklamaya yok ama önerim 2 CPU
- 
-### Kurulum Rehber Videosu
- - Video: https://youtu.be/F69jA9JmVR8
  - NuLink Discord: https://discord.gg/kRcXuphmpz
  
 ### A-) Node Kurulum Adımları
